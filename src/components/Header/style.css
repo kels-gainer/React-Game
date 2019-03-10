@@ -1,0 +1,22 @@
+.header {
+    width: 100%;
+    font-size: 2rem;
+    color: #2A77AE;
+    margin-bottom: 10px;
+    /* background: url(./banner.gif))  */
+    background-color: #0B0C10;
+  }
+  
+  .title {
+    float: left;
+    font-family: 'Audiowide', cursive;
+    color: #66fcf1;
+    padding: 15px;
+  }
+  
+  .scores {
+    float: right;
+    color: #66fcf1;
+    font-family: 'Audiowide', cursive;
+    padding: 15px;
+  }
