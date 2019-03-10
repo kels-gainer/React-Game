@@ -15,3 +15,10 @@ If the user clicks on the same image twice then they'll be alerted that they hav
 and then the game will reshuffle the cards and the score will set to zero while their highscore is still displayed 
 
 ![alt text](images/reset.png)
+
+- - -
+
+## Link to Active Game
+
+https://afternoon-tundra-25018.herokuapp.com/
+
